@@ -48,4 +48,5 @@ More information about this project is provided in the http://catalogue.fiware.o
 Can be found under the /documentation folder, and includes the Proton's User Guide (explaining the language building blocks and use of the authoring tool use) and Programmer's Guide (explaining possible extension points to the Proton's programming model)
 
 === Licence License ===
+https://img.shields.io/badge/license-AGPL-blue.svg
 IBM Proactive Technology Online is licenced under the Apache Licence Version 2.0. For more information see the LICENCE.md
